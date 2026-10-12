@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../../../../../../../../RepositoriosGit/TerapiasIntegrativas/TerapiasIntegrativas/TerapiasIntegrativas.Application/TerapiasIntegrativas.Application.csproj" />
+  <Project Path="../../../../../../../../RepositoriosGit/TerapiasIntegrativas/TerapiasIntegrativas/TerapiasIntegrativas.Domain/TerapiasIntegrativas.Domain.csproj" />
+  <Project Path="../../../../../../../../RepositoriosGit/TerapiasIntegrativas/TerapiasIntegrativas/TerapiasIntegrativas.Infra.Data/TerapiasIntegrativas.Infra.Data.csproj" />
+  <Project Path="../../../../../../../../RepositoriosGit/TerapiasIntegrativas/TerapiasIntegrativas/TerapiasIntegrativas.Infra.IoC/TerapiasIntegrativas.Infra.IoC.csproj" />
+  <Project Path="../../../../../../../../RepositoriosGit/TerapiasIntegrativas/TerapiasIntegrativas/TerapiasIntegrativas.Web.UI/TerapiasIntegrativas.Web.UI.csproj" />
+</Solution>
